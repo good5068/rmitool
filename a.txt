@@ -1,0 +1,2 @@
+set process=C:\\Users\jhon\appdata\Local\Google\Chrome\Application\chrome.exe
+if exist "%process%" goto chrome
