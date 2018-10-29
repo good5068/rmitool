@@ -1,0 +1,2152 @@
+37.58.189.40:1099
+windows:8888:autorite nt\system
+
+8888:
+Dossierÿ: \
+Nom de la tƒche                          Prochaine ex‚cution    Statut         
+======================================== ====================== ===============
+msent                                    N/A                    Non d‚marr‚e   
+existsMsent 
+Op‚ration r‚ussie : la tƒche planifi‚e "msent" a ‚t‚ termin‚e.
+
+
+Envoi d'une requˆte 'ping' sur www.wshifen.com [103.235.46.39] avec 32 octets de donn‚esÿ:
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=260 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+
+
+Statistiques Ping pour 103.235.46.39:
+
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+
+Dur‚e approximative des boucles en millisecondes :
+
+    Minimum = 258ms, Maximum = 260ms, Moyenne = 258ms
+
+Op‚ration r‚ussie : tentative d'ex‚cution de la tƒche planifi‚e "msent".
+
+149.202.75.100:1099
+windows:8888:autorite nt\syst�me
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+37.58.189.40:1099
+windows:8888:autorite nt\system
+
+8888:
+Dossierÿ: \
+Nom de la tƒche                          Prochaine ex‚cution    Statut         
+======================================== ====================== ===============
+msent                                    N/A                    Non d‚marr‚e   
+existsMsent 
+Op‚ration r‚ussie : la tƒche planifi‚e "msent" a ‚t‚ termin‚e.
+
+
+Envoi d'une requˆte 'ping' sur www.wshifen.com [103.235.46.39] avec 32 octets de donn‚esÿ:
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+
+
+Statistiques Ping pour 103.235.46.39:
+
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+
+Dur‚e approximative des boucles en millisecondes :
+
+    Minimum = 258ms, Maximum = 259ms, Moyenne = 258ms
+
+Op‚ration r‚ussie : tentative d'ex‚cution de la tƒche planifi‚e "msent".
+
+81.27.207.243:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+  000000  ...
+  20accf7
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  3200000
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  046c00
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  115a00
+CertUtil: -URLCache command completed successfully.
+
+208.58.71.49:1099
+linux:8888:casuser
+
+8888:1213
+13542
+17926
+1863
+27003
+6.sh
+9815
+config1.sh
+config.json
+config.sh
+hp_systemd
+infoed
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+ksxworker
+people
+rcp_bh
+rsync
+search
+syncd
+syslog
+updatex11o
+url
+watch-smartd
+x1lsearch
+xfallocdx
+xfsallocd
+xlog-daemon
+
+77.246.51.155:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+195.181.214.143:1099
+linux:8888:root
+
+8888:config1.sh
+config.sh
+dead.letter
+EAP_Controller_v2.5.3_linux_x64
+javnaupdate
+ksoftirqd1
+ksoftirqd2
+provisioning.log
+Riferimenti KB Cloud Aruba.txt
+webmin_1.870_all.deb
+
+45.59.244.190:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+  000000  ...
+  20accf7
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  3200000
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  046c00
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  115a00
+CertUtil: -URLCache command completed successfully.
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 52428800 bytes (50 MiB)
+
+Extracting archive: file.zip.001
+--
+Path = file.zip.001
+Type = Split
+Physical Size = 52428800
+Volumes = 2
+Total Physical Size = 86691063
+----
+Path = file.zip
+Size = 86691063
+--
+Path = file.zip
+Type = zip
+Physical Size = 86691063
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 86691063
+
+37.58.189.40:1099
+windows:8888:autorite nt\system
+
+8888:
+Dossierÿ: \
+Nom de la tƒche                          Prochaine ex‚cution    Statut         
+======================================== ====================== ===============
+msent                                    N/A                    Prˆt           
+existsMsent 
+Op‚ration r‚ussie : la tƒche planifi‚e "msent" a ‚t‚ termin‚e.
+
+
+Envoi d'une requˆte 'ping' sur www.wshifen.com [103.235.46.39] avec 32 octets de donn‚esÿ:
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+
+
+Statistiques Ping pour 103.235.46.39:
+
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+
+Dur‚e approximative des boucles en millisecondes :
+
+    Minimum = 258ms, Maximum = 259ms, Moyenne = 258ms
+
+
+149.202.75.100:1099
+windows:8888:autorite nt\syst�me
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+37.58.189.40:1099
+windows:8888:autorite nt\system
+
+8888:
+Dossierÿ: \
+Nom de la tƒche                          Prochaine ex‚cution    Statut         
+======================================== ====================== ===============
+msent                                    N/A                    Prˆt           
+existsMsent 
+Op‚ration r‚ussie : la tƒche planifi‚e "msent" a ‚t‚ termin‚e.
+
+
+Envoi d'une requˆte 'ping' sur www.wshifen.com [103.235.46.39] avec 32 octets de donn‚esÿ:
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=258 ms TTL=46
+
+R‚ponse de 103.235.46.39ÿ: octets=32 temps=259 ms TTL=46
+
+
+
+Statistiques Ping pour 103.235.46.39:
+
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+
+Dur‚e approximative des boucles en millisecondes :
+
+    Minimum = 258ms, Maximum = 259ms, Moyenne = 258ms
+
+
+81.27.207.243:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+  000000  ...
+  20accf7
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  3200000
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  046c00
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  115a00
+CertUtil: -URLCache command completed successfully.
+
+208.58.71.49:1099
+linux:8888:casuser
+
+8888:1213
+13542
+17926
+1863
+27003
+6.sh
+9815
+config1.sh
+config.json
+config.sh
+hp_systemd
+infoed
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+ksxworker
+people
+rcp_bh
+rsync
+search
+syncd
+syslog
+updatex11o
+url
+watch-smartd
+x1lsearch
+xfallocdx
+xfsallocd
+xlog-daemon
+
+77.246.51.155:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+195.181.214.143:1099
+linux:8888:root
+
+8888:config1.sh
+config.sh
+dead.letter
+EAP_Controller_v2.5.3_linux_x64
+javnaupdate
+ksoftirqd1
+ksoftirqd2
+provisioning.log
+Riferimenti KB Cloud Aruba.txt
+webmin_1.870_all.deb
+
+45.59.244.190:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+  000000  ...
+  20accf7
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  3200000
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  046c00
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  115a00
+CertUtil: -URLCache command completed successfully.
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+
+136.183.184.4:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+50.207.44.201:1099
+linux:8888:onexp
+
+8888:amp.lst
+apache.sh
+back.py
+bootstrap.jar
+catalina.sh
+catalina-tasks.xml
+cddn
+cmd.n
+commons-daemon.jar
+commons-daemon-native.tar.gz
+config1.sh
+config.sh
+configtest.sh
+conf.n
+daemon.sh
+db_schema.xml
+Dest.cfg
+digest.sh
+HuntGroupPermsMsg.txt
+induna-user.xml
+inkaba.config
+inyama.config
+java
+javas
+javas.1
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+libtcnative-1.so
+log4j.xml
+onexconfig.properties
+onexmanager.sh
+onexportal
+oneXportalserver.properties
+oneXportaluser.properties
+setclasspath.sh
+shutdown.sh
+startup.sh
+templates
+tomcat-juli.jar
+tomcat-native.tar.gz
+tool-wrapper.sh
+TR
+udd
+usy
+velocity.log
+velocity.log.1
+version.sh
+vmCallFlowData.xml
+zconf.n
+
+88.255.240.118:1099
+windows:8888:bkc\administrator
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    26.10.2018 23:57:00    Running        
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [45.113.192.101] with 32 bytes of data:
+Reply from 45.113.192.101: bytes=32 time=236ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=239ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=234ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=231ms TTL=51
+
+Ping statistics for 45.113.192.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 231ms, Maximum = 239ms, Average = 235ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+187.183.158.46:1099
+windows:8888:java.lang.NullPointerException
+
+8888:java.lang.NullPointerException
+
+65.196.149.109:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+72.18.131.130:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.117:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=53ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 53ms, Average = 51ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.128:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=52ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 52ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.129:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.126:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=53ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 53ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.112:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.115:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.107:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.114:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=52ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 52ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.116:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.121:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.120:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.111:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.100:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.109:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.123] with 32 bytes of data:
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.123: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.123:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.124:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 179ms, Maximum = 179ms, Average = 179ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.119:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 179ms, Maximum = 179ms, Average = 179ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.123:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=181ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=180ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 179ms, Maximum = 181ms, Average = 179ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.105:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 179ms, Maximum = 179ms, Average = 179ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.113:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+Reply from 14.215.177.39: bytes=32 time=179ms TTL=46
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 179ms, Maximum = 179ms, Average = 179ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.102:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.122:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.104:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.130.118:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=52ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 52ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.101:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.106:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.103:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.132.107:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.16.231.11:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.127:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.110:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.132.107:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.131.106:1099
+windows:8888:nt authority\system
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Could not start
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [104.193.88.77] with 32 bytes of data:
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=51ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+Reply from 104.193.88.77: bytes=32 time=50ms TTL=51
+
+Ping statistics for 104.193.88.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+72.18.130.234:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+203.125.137.142:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+203.127.7.227:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+203.125.137.140:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+80.22.239.132:1099
+linux:8888:onexp
+
+8888:a4.sh
+back.py
+back.py.1
+bins
+bootstrap.jar
+catalina.sh
+catalina-tasks.xml
+cmd.n
+commons-daemon.jar
+commons-daemon-native.tar.gz
+configtest.sh
+conf.n
+daemon.sh
+db_schema.xml
+digest.sh
+dirty
+Fully
+ggw
+hpdriver
+hpdriverx
+hp_systemd
+hpx_systemd
+hubpipe
+induna-user.xml
+inkaba.config
+inyama.config
+jiba
+kkm.sh
+libtcnative-1.so
+log4j.xml
+onexconfig.properties
+onexmanager.sh
+onexportal
+oneXportalserver.properties
+oneXportaluser.properties
+people
+search
+setclasspath.sh
+shutdown.sh
+startup.sh
+SYN_145
+SYN_7000
+syncd
+syslog
+templates
+tomcat-juli.jar
+tomcat-native.tar.gz
+tool-wrapper.sh
+velocity.log
+velocity.log.1
+version.sh
+vmCallFlowData.xml
+x1lsearch
+xfallocdx
+xlog-daemon
+xmrig
+
+80.113.195.234:1099
+linux:8888:app
+
+8888:15227
+54281.sh
+559
+559.sh
+7799
+99.sh
+997.sh
+99977
+99977.sh
+Szjym50.ssx
+TF0.1
+ac_configurations.dat
+ac_initrequests.dat
+ac_jini_entries.dat
+ac_options.dat
+ac_unitofauthorizations.dat
+ac_unitofauthorizations.dat.bup
+address_map
+aepulog
+aepulog-i
+apache.sh
+apbconfig.dat
+apche.sh
+back.py
+carrier_attributes.dat
+carrierattributes_stat.dat
+certs
+config.sh
+config1.sh
+container
+container.bup
+ddss
+events
+events.idx
+events.rd
+events.rd.bak
+events.wt
+events.wt.bak
+fs1_small_0.cpio-md5sum
+fs1_small_1.cpio-md5sum
+fs1_small_10.cpio-md5sum
+fs1_small_11.cpio-md5sum
+fs1_small_12.cpio-md5sum
+fs1_small_13.cpio-md5sum
+fs1_small_14.cpio-md5sum
+fs1_small_15.cpio-md5sum
+fs1_small_16.cpio-md5sum
+fs1_small_17.cpio-md5sum
+fs1_small_18.cpio-md5sum
+fs1_small_19.cpio-md5sum
+fs1_small_2.cpio-md5sum
+fs1_small_20.cpio-md5sum
+fs1_small_21.cpio-md5sum
+fs1_small_3.cpio-md5sum
+fs1_small_4.cpio-md5sum
+fs1_small_5.cpio-md5sum
+fs1_small_6.cpio-md5sum
+fs1_small_7.cpio-md5sum
+fs1_small_8.cpio-md5sum
+fs1_small_9.cpio-md5sum
+function
+gen.sh
+getyy
+gvfsd-up
+identifier
+ig
+javas
+jbytt
+jbytt4
+jiba
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+lfTsw
+logsettings.dat
+metainfo.dat
+minerd
+mix
+parrotsec
+printer
+sb
+sb1
+serviceids.dat
+serviceids.dat.bup
+slTft
+sseeoo
+tag_assignments.dat
+tag_assignments_stat.dat
+time
+timoxig
+uoaattributes
+uufffuuuuu
+verification.dat
+verification.dat.bup
+verification_stat.dat
+versionInfo
+xdg2500.ymon
+xmrig
+
+80.22.239.132:1099
+linux:8888:onexp
+
+8888:a4.sh
+back.py
+back.py.1
+bins
+bootstrap.jar
+catalina.sh
+catalina-tasks.xml
+cmd.n
+commons-daemon.jar
+commons-daemon-native.tar.gz
+configtest.sh
+conf.n
+daemon.sh
+db_schema.xml
+digest.sh
+dirty
+Fully
+ggw
+hpdriver
+hpdriverx
+hp_systemd
+hpx_systemd
+hubpipe
+induna-user.xml
+inkaba.config
+inyama.config
+jiba
+kkm.sh
+libtcnative-1.so
+log4j.xml
+onexconfig.properties
+onexmanager.sh
+onexportal
+oneXportalserver.properties
+oneXportaluser.properties
+people
+search
+setclasspath.sh
+shutdown.sh
+startup.sh
+SYN_145
+SYN_7000
+syncd
+syslog
+templates
+tomcat-juli.jar
+tomcat-native.tar.gz
+tool-wrapper.sh
+velocity.log
+velocity.log.1
+version.sh
+vmCallFlowData.xml
+x1lsearch
+xfallocdx
+xlog-daemon
+xmrig
+
+96.92.4.94:1099
+windows:8888:java.lang.NullPointerException
+
+8888:java.lang.NullPointerException
+
+67.133.192.40:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+CertUtil: -URLCache command FAILED: 0x80072efd (WIN32: 12029)
+CertUtil: A connection with the server could not be established
+
+89.144.110.43:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+  000000  ...
+  20accf7
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  3200000
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  046c00
+CertUtil: -URLCache command completed successfully.
+****  Online  ****
+  000000  ...
+  115a00
+CertUtil: -URLCache command completed successfully.
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+
+198.91.117.166:1099
+linux:8888:root
+
+8888:back.py
+back.py.1
+bootstrap.jar
+catalina.bat
+catalina.sh
+catalina-tasks.xml
+commons-daemon.jar
+commons-daemon-native.tar.gz
+config1.sh
+config.json
+config.sh
+configtest.bat
+configtest.sh
+conf.n
+cpappend.bat
+daemon.sh
+db_schema.xml
+digest.bat
+digest.sh
+HuntGroupPermsMsg.txt
+inkaba.config
+inyama.config
+java
+javnaupdate
+ksoftirqd
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+libtcnative-1.so
+log4j.xml
+onexconfig.properties
+onexmanager.sh
+onexportal
+oneXportalserver.properties
+oneXportaluser.properties
+setclasspath.bat
+setclasspath.sh
+shutdown.bat
+shutdown.sh
+startup.bat
+startup.sh
+synn
+templates
+tomcat-juli.jar
+tomcat-native.tar.gz
+tool-wrapper.bat
+tool-wrapper.sh
+velocity.log
+version.bat
+version.sh
+
+139.30.205.188:1099
+windows:8888:nt-autorit„t\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+
+81.215.193.32:1099
+windows:8888:java.lang.NullPointerException
+
+8888:java.lang.NullPointerException
+
+81.170.216.72:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+
+169.54.255.183:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+
+204.93.172.103:1099
+linux:8888:bahmni
+
+8888:aquota.group
+aquota.user
+bahmni_temp
+bin
+boot
+cgroup
+dev
+etc
+home
+lib
+lib64
+lost+found
+media
+mnt
+opt
+proc
+reboot
+root
+sbin
+selinux
+srv
+sys
+tmp
+usr
+var
+
+41.191.233.118:1099
+windows:8888:nt authority\system
+
+8888:existsMsent 
+
+Pinging www.a.shifen.com [14.215.177.39] with 32 bytes of data:
+Reply from 14.215.177.39: bytes=32 time=406ms TTL=47
+Reply from 14.215.177.39: bytes=32 time=402ms TTL=47
+Reply from 14.215.177.39: bytes=32 time=402ms TTL=47
+Reply from 14.215.177.39: bytes=32 time=402ms TTL=47
+
+Ping statistics for 14.215.177.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 402ms, Maximum = 406ms, Average = 403ms
+
+41.78.233.40:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+181.188.181.131:1099
+windows:8888:nt authority\system
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+****  Online  ****
+CertUtil: -URLCache command FAILED: 0x80072ee7 (INet: 12007 ERROR_INTERNET_NAME_NOT_RESOLVED)
+CertUtil: The server name or address could not be resolved
+
+188.204.126.156:1099
+linux:8888:root
+
+8888:Fully
+ac_configurations.dat
+ac_initrequests.dat
+ac_jini_entries.dat
+ac_options.dat
+ac_unitofauthorizations.dat
+ac_unitofauthorizations.dat.bup
+aepulog
+aepulog-i
+apache.sh
+apbconfig.dat
+apche.sh
+back.py
+busy
+carrier_attributes.dat
+carrierattributes_stat.dat
+certs
+container
+container.bup
+cswk
+ddss
+events
+events.idx
+events.rd
+events.rd.bak
+events.wt
+events.wt.bak
+fs1_small_0.cpio-md5sum
+fs1_small_1.cpio-md5sum
+fs1_small_10.cpio-md5sum
+fs1_small_11.cpio-md5sum
+fs1_small_12.cpio-md5sum
+fs1_small_13.cpio-md5sum
+fs1_small_14.cpio-md5sum
+fs1_small_15.cpio-md5sum
+fs1_small_16.cpio-md5sum
+fs1_small_17.cpio-md5sum
+fs1_small_18.cpio-md5sum
+fs1_small_19.cpio-md5sum
+fs1_small_2.cpio-md5sum
+fs1_small_20.cpio-md5sum
+fs1_small_21.cpio-md5sum
+fs1_small_3.cpio-md5sum
+fs1_small_4.cpio-md5sum
+fs1_small_5.cpio-md5sum
+fs1_small_6.cpio-md5sum
+fs1_small_7.cpio-md5sum
+fs1_small_8.cpio-md5sum
+fs1_small_9.cpio-md5sum
+function
+identifier
+ig
+jbosss
+lf
+logsettings.dat
+metainfo.dat
+printer
+serviceids.dat
+serviceids.dat.bup
+sseeoo
+sshd
+tag_assignments.dat
+tag_assignments_stat.dat
+time
+uoaattributes
+verification.dat
+verification.dat.bup
+verification_stat.dat
+versionInfo
+
+188.137.137.116:1099
+linux:8888:root
+
+8888:5.sh
+778899
+778899.sh
+7799
+bootstrap.jar
+catalina-tasks.xml
+catalina.bat
+catalina.sh
+commons-daemon-native.tar.gz
+commons-daemon.jar
+config.sh
+config1.sh
+configtest.bat
+configtest.sh
+cpappend.bat
+daemon.sh
+db_schema.xml
+digest.bat
+digest.sh
+ig
+iig
+inkaba.config
+inyama.config
+javnaupdate
+ksoftirqd1
+ksoftirqd2
+libtcnative-1.so
+libtcnative-1_x64.so
+log4j.xml
+oneXportalserver.properties
+oneXportaluser.properties
+onexconfig.properties
+onexmanager.sh
+onexportal
+orlcaldaemo.sh
+orlcalrun.sh
+setclasspath.bat
+setclasspath.sh
+shutdown.bat
+shutdown.sh
+startup.bat
+startup.sh
+templates
+tomcat-juli.jar
+tomcat-native.tar.gz
+tool-wrapper.bat
+tool-wrapper.sh
+velocity.log
+version.bat
+version.sh
+
+190.167.212.202:1099
+linux:8888:java.io.IOException: Cannot run program "whoami": error=2, No such file or directory
+
+8888:7799
+9668888
+99.sh
+activemq-data
+apache.sh
+apche.sh
+apche.sh.1
+backup_webapps
+bin
+conf
+config.sh
+config1.sh
+doc
+hp_systemd
+hpdriver
+hpdriverx
+hpx_systemd
+javas
+jbytt
+jbytt4
+jbytt4.1
+jbytt4.2
+jbytt4.3
+jiba
+jiba.1
+jiba.10
+jiba.11
+jiba.12
+jiba.13
+jiba.14
+jiba.15
+jiba.16
+jiba.17
+jiba.18
+jiba.19
+jiba.2
+jiba.20
+jiba.21
+jiba.3
+jiba.4
+jiba.5
+jiba.6
+jiba.7
+jiba.8
+jiba.9
+keys
+ksoftirqd1
+ksoftirqd2
+ksoftirqd3
+ksxworker
+lib
+libexec64
+licenses
+log
+prod
+project-jars
+resin-data
+sbin
+timoxig
+timoxig.1
+timoxig.2
+timoxig.3
+uufffuuuuu
+watch-smartd
+watchdog-data
+webapps
+worker
+xfallocdx
+xlog-daemon
+
+211.63.165.15:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+211.223.65.169:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+211.192.248.137:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+211.228.18.194:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+91.192.38.68:1099
+windows:8888:java.security.AccessControlException: access denied (java.io.FilePermission <<ALL FILES>> execute)
+
+8888:java.security.AccessControlException: access denied (java.io.FilePermission <<ALL FILES>> execute)
+
+148.243.155.61:1099
+windows:8888:nt authority\system
+
+0000
+78.188.41.4:1099
+windows:8888:bkc\administrator
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    28.10.2018 11:57:00    Running        
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [45.113.192.101] with 32 bytes of data:
+Reply from 45.113.192.101: bytes=32 time=211ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=211ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=211ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=211ms TTL=51
+
+Ping statistics for 45.113.192.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 211ms, Maximum = 211ms, Average = 211ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+78.186.161.239:1099
+windows:8888:urosan\administrator
+
+8888:notExistMsent 
+notExistAppDataChrome 
+NotExistX86chrome 
+SUCCESS: The scheduled task "msent" has successfully been created.
+SUCCESS: Attempted to run the scheduled task "msent".
+
+78.186.137.148:1099
+windows:8888:tekser\administrator
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Running        
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [45.113.192.101] with 32 bytes of data:
+Reply from 45.113.192.101: bytes=32 time=232ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+
+Ping statistics for 45.113.192.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 230ms, Maximum = 232ms, Average = 230ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+78.186.254.36:1099
+windows:8888:tekser\administrator
+
+8888:
+Folder: \
+TaskName                                 Next Run Time          Status         
+======================================== ====================== ===============
+msent                                    N/A                    Running        
+existsMsent 
+SUCCESS: The scheduled task "msent" has been terminated successfully.
+
+Pinging www.wshifen.com [45.113.192.101] with 32 bytes of data:
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+Reply from 45.113.192.101: bytes=32 time=230ms TTL=51
+
+Ping statistics for 45.113.192.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 230ms, Maximum = 230ms, Average = 230ms
+SUCCESS: Attempted to run the scheduled task "msent".
+
+149.202.75.100:1099
+windows:8888:autorite nt\syst�me
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+
+190.210.183.170:1099
+windows:8888:java.lang.NullPointerException
+
+8888:java.lang.NullPointerException
+
+121.151.159.133:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+121.178.196.15:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+121.162.252.19:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+121.152.36.62:1099
+linux:8888:ipcs
+
+8888:bin
+boot
+data
+database
+dev
+entropy
+etc
+lib
+libexec
+media
+mnt
+proc
+rescue
+root
+sbin
+tftpboot
+tmp
+usr
+usrdata
+var
+
+200.145.57.89:1099
+windows:8888:unesp05-pc\administrador
+
+8888:notExistMsent 
+notExistAppDataChrome 
+existX86chromeC:\Program Files (x86)\Google\Chrome\Application\chrome.exe 
+ÒXITO: a tarefa agendada "msent" foi criada corretamente.
+ÒXITO: tentativa de executar a tarefa agendada "msent".
+
+200.2.185.91:1099
+windows:8888:java.lang.NullPointerException
+
+8888:java.lang.NullPointerException
+
